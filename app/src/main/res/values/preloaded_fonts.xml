@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/antic</item>
+        <item>@font/anton</item>
+        <item>@font/biorhyme_extralight</item>
+        <item>@font/days_one</item>
+        <item>@font/delius_unicase</item>
+    </array>
+</resources>

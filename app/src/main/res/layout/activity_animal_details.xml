@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/anim_details_CL"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnimalDetailsActivity">
+
+    <ImageView
+        android:id="@+id/container"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:background="@drawable/container_bg"
+        android:contentDescription="@string/board_main_img"
+        android:transitionName="containerTN"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/animal_img"
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:adjustViewBounds="true"
+        android:background="#006400"
+        android:contentDescription="@string/animal_1"
+        android:cropToPadding="true"
+        android:padding="3dp"
+        android:scaleType="centerCrop"
+        android:transitionName="animalTN"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_1" />
+
+    <TextView
+        android:id="@+id/animalName"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:fontFamily="@font/anton"
+        android:text=""
+        android:textSize="40sp"
+        android:transitionName="animal_titleTN"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/container" />
+
+    <TextView
+        android:id="@+id/details_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginRight="76dp"
+        android:fontFamily="@font/adamina"
+        android:text=""
+        android:textColor="@color/white"
+        android:transitionName="animal_desTN"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animalName" />
+
+    <TextView
+        android:id="@+id/details_desc"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:lineSpacingExtra="8sp"
+        android:text=""
+        android:transitionName="animal_detailsTN"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animal_img" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

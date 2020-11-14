@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Zoopedia</string>
+    <string name="zoopedia">Zoopedia</string>
+    <string name="teaching_by_playing_is_fun">Teaching by playing is fun</string>
+    <string name="main_image">main_image</string>
+    <string name="board_main_img">board_main_img</string>
+    <string name="animal_1">animal_1</string>
+
+    <!-- Animal 1 -->
+    <string name="animal_Ard_title">Aardvark</string>
+    <string name="animal_Ard_type">Orycteropus afer</string>
+    <string name="animal_Ard_des">The aardvark (or Orycteropus afer) is a medium-sized insectivore that lives
+    throughout Sub-Saharan Africa. They have pink-grey skin with sparse, coarse hair, large
+    slender ears and an elongated head that ends in a pig-like snout. Males are slightly larger than females,
+    but both sexes are generally between 105 and 130cm long, have a tail between 60 and 70cm,and
+    weigh between 40 and 65kg.</string>
+
+    <!-- African Buffalo -->
+    <string name="animal_Buf_title">African Buffalo</string>
+    <string name="animal_Buf_type">Syncerus caffer</string>
+    <string name="animal_Buf_des">Living throughout Sub-Saharan Africa, the African buffalo
+    (or Syncerus caffer) is the largest member of the cow
+    family-bovids-found in the African wild. They are typically between
+    1.7 and 3.4m in length, measure 1.0 to 1.7m tall, and are identifiable
+    by their distinctive horns, which are broad, curved and unite in a \'boss\'
+    in the centre of their forehead. The dominant male in a herd will often have the largest horns.</string>
+
+    <!-- African Elephant -->
+    <string name="animal_Ele_title">African Elephant</string>
+    <string name="animal_Ele_type">Loxodonta</string>
+    <string name="animal_Ele_des">The African elephant is native to Sub-Saharan Africa and lives in
+        savanna,forests and mountains. African elephants are large and thickset with thick grey
+        skin and a characteristic trunk that they use for vocalising, drinking and
+        grasping food. Both male and female African elephants have tusks. Elephants
+        are known for their intelligence and strong social bonds. Female herds bond
+        for life and will remember and communicate with family members even if herds
+        split up. Bonds are especially strong between mothers and their babies.</string>
+
+    <!-- Bengal Tiger -->
+    <string name="animal_Tig_title">Bengal Tiger</string>
+    <string name="animal_Tig_type">Panthera Tigris</string>
+    <string name="animal_Tig_des">The Bengal tiger (or Panthera Tigris)is native to India, Bangladesh,
+    Nepal, Bhutan and Western China. It can live in all kinds of environments,
+    including grassland, forests and mangroves, and will hunt large prey such as
+    cloven-hoofed animals like goats, deer and cows(collectively known as ungulates).
+    The Bengal tiger can be identified by its bright orange coat and brown or black stripes,
+    along with a large head, muscular limbs and large teeth.</string>
+
+    <!-- Bornean Orangutan -->
+    <string name="animal_Mon_title">Bornean Orangutan</string>
+    <string name="animal_Mon_type">Pongo pygmaeus</string>
+    <string name="animal_Mon_des">the orangutan (or Pongo pygmaeus)is native to the island of Borneo, their range
+    also spanning areas of Bornean Indonesia and Malaysia. They are large apes identifiable
+    by their red fur and brown skin, while mature males also have distinct, large cheek pads
+    and throat pouches used for making loud vocalizations to attract females. They are incredibly
+    intelligent animals and gave been observed creating and using tools in the wild to acquire food.
+    However, they cannot swim and their range is often limited by rivers that they cannot cross in
+    the wild.</string>
+
+    <!-- Jaguar -->
+    <string name="animal_Jag_title">Jaguar</string>
+    <string name="animal_Jag_type">Panthera onca</string>
+    <string name="animal_Jag_des">The jaguar (or Panthera onca) is a species of big cat that lives
+    throughout South America, Central America and Mexico, with rare individual sightings in the
+    southern USA. Although they can live in multiple environment types, they prefer to be in
+    dense forests, near swamps and rivers. They are stockily built compared to the other big
+    cat species, weighing an average of between 56 and 96kg, and measuring 112 to 185cm long.
+    They have yellow to orange fur with black rosette patterning, and a white underside.</string>
+
+
+    <!-- Polar Bear -->
+    <string name="animal_Bear_title">Polar Bear</string>
+    <string name="animal_Bear_type">Ursus maritimus</string>
+    <string name="animal_Bear_des">The polar bear (or Ursus maritimus) is a large ursine species
+    that live in the Arctic Circle and the sub-Arctic regions. With a completely white coat,
+    dark eyes and a dark nose, they are stocky in build, with sturdy legs and large feet that
+    are well adapted to swimming. To minimise heat loss, the bears have small ears and a short
+    tail. Males are between 2.4 and 3.0m long, weighing between 350 and 750 kg; females are
+    between 1.8 and 2.4m long, weighing 150 to 250 kg. Both sexes feed on both ringed and
+    bearded seals.</string>
+
+    <!-- Giant Panda -->
+    <string name="animal_Pan_title">Giant Panda</string>
+    <string name="animal_Pan_type">Ailuropoda melanoleuca</string>
+    <string name="animal_Pan_des">The giant panda (or Ailuropoda melanoleuca) is a species of bear
+    native to the mountains of Central China. They have black and white fur in a distinctive
+    pattern, with black legs, ears and circles around their eyes. Pandas feed almost
+    exclusively on bamboo and, as a result, are extremely dependent on rich bamboo forests to
+    survive. This is a low energy food, so pandas must eat a lot of it to live and spend most
+    of their waking hours foraging and eating. Their low energy intake also means they produce
+    very tiny and vulnerable cubs.</string>
+
+    <!-- Giant Tiger Land Snail -->
+    <string name="animal_Snail_title">Giant Tiger Land Snail</string>
+    <string name="animal_Snail_type">Achatina achatin</string>
+    <string name="animal_Snail_des">The giant tiger land snail (or Achatina achatina) is a large
+    species of gastropod that lives in the woodland areas of West Africa; specifically Sierra
+    Leone, Liberia, Ivory Coast, Ghana and Nigeria, among others. They have a grey body and a
+    conical shell that\'s yellow, orange or tan with black stripes - the distinctive pattern
+    being the inspiration for their name. The species is hermaphroditic, possessing both male
+    and female reproductive parts, so there are no distinct \'males\' and \'females\'. However,
+    small or sub-adult individuals have often not yet developed the reproductive parts and so
+    may be considered \'males\'.</string>
+
+    <!-- Gharial -->
+    <string name="animal_Cro_title">Gharial</string>
+    <string name="animal_Cro_type">Gavialis gangeticus</string>
+    <string name="animal_Cro_des">Gharials (or Gavialis gangeticus) are a critically endangered
+        species of crocodile native to the rivers of the Indian subcontinent. With recent
+        estimations stating there are just 200 left in the wild, the dwindling population is now
+        restricted to just four stretches of river in Nepal and North India. Their collapse in
+        numbers has been caused by the increase in river pollution reducing the amount of fish
+        in the water, as well as by sand-mining destroying sandbanks that are essential for
+        egg-laying.</string>
+
+</resources>
